@@ -19,7 +19,7 @@ Then, create a new Python3 virtual environment:
 
 Once you activate the virtual environment, run the below.
 
-`pip3 install requirements.txt`
+`pip3 install -r requirements.txt`
 
 
 ## Running Experiments
