@@ -12,7 +12,10 @@ First, clone the repository:
 
 `git clone https://github.com/abinithago/68300-final.git`.
 
-Then, create a new Python3 virtual environment:
+To open the notebooks in Colab, please download and open them separately. 
+To run the notebooks locally, please see the below:
+
+Create a new Python3 virtual environment:
 
 `python -m venv venv`
 `source venv/bin/activate`
@@ -21,6 +24,7 @@ Once you activate the virtual environment, run the below.
 
 `pip3 install -r requirements.txt`
 
+Activate this virtual environment in an IDE of your choice.
 
 ## Running Experiments
 
