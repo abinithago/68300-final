@@ -28,6 +28,6 @@ Activate this virtual environment in an IDE of your choice.
 
 ## Running Experiments
 
-To run the CIFAR-10 experiments, activate the virtual environment and run the `cifar_10_add_experiments.ipynb` notebook. Similarly, all experiments that were run for the MNIST dataset are available in the `mnist_final_add_experiments.ipynb`.
+To run the CIFAR-10 experiments, activate the virtual environment and run the `cifar-10_add_experiments.ipynb` notebook. Similarly, all experiments that were run for the MNIST dataset are available in the `mnist_final_add_experiments.ipynb`.
 
 The relevant experiments for ablation studies should be available in the `mnist_final.ipynb` notebook and the `ablation.ipynb` notebook. 
