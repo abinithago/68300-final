@@ -18,6 +18,7 @@ To run the notebooks locally, please see the below:
 Create a new Python3 virtual environment:
 
 `python -m venv venv`
+
 `source venv/bin/activate`
 
 Once you activate the virtual environment, run the below.
