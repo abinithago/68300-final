@@ -1,4 +1,4 @@
-## Adaptive Corruption for Denoising Faulty Data
+## Adaptive Corruption for Learning Clean Data Distributions
 
 This repository hosts the PyTorch implementation of an adaptive corruption regime for learning clean distributions from corrupted data. This implementation is inspired by the paper: [Ambient Diffusion: Learning Clean Distributions from Corrupted Data](https://arxiv.org/abs/2305.19256).
 
